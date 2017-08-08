@@ -1,0 +1,8 @@
+D:\Desktop\Project\=Self=\MRS\MRS\bin\Debug\MRS.exe
+D:\Desktop\Project\=Self=\MRS\MRS\bin\Debug\MRS.pdb
+D:\Desktop\Project\=Self=\MRS\MRS\obj\Debug\ResolveAssemblyReference.cache
+D:\Desktop\Project\=Self=\MRS\MRS\obj\Debug\MRS.Form1.resources
+D:\Desktop\Project\=Self=\MRS\MRS\obj\Debug\MRS.Properties.Resources.resources
+D:\Desktop\Project\=Self=\MRS\MRS\obj\Debug\MRS.csproj.GenerateResource.Cache
+D:\Desktop\Project\=Self=\MRS\MRS\obj\Debug\MRS.exe
+D:\Desktop\Project\=Self=\MRS\MRS\obj\Debug\MRS.pdb
